@@ -1,1 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/IcQhRwJ_)
+# Video Game Tree
+
+A C# console application for storing and searching video game data using tree-based data structures.
+
+## Features
+
+- Insert video games
+- InOrder, PreOrder and PostOrder traversal
+- Find the earliest released game
+- Calculate tree height
+- Count entries
+- Search and update game information
+- Find games by release year
+- AVL tree balancing and rotations
+- Remove games from the tree
